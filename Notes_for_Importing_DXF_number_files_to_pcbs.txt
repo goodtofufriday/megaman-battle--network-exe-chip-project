@@ -1,0 +1,19 @@
+Inkscape: Set fill to none. Set stroke to something. Doesn't matter much how full. 
+Type out number in font. Select all. 
+Path - object to path
+Object - ingroup
+Path - break apart
+Save as dxf
+
+In eagle 
+Import dxf.
+Struggle with x/y parameters. 
+Delete lines in middle of the rectangles/number segments. 
+Separate the segments just enough so that they aren't touching. 
+Convert each segment to polygon (use replace)
+Select them all
+Ratsnest
+Then just do that for every number...
+Oh and for any number that has a 1 in the first or second spot you need to manually adjust the adjacent numbers to be closer to the one. 
+This font has a large box for 1 for some reason.
+Best option IMO is to use and 8 and remove the sections you dont need
