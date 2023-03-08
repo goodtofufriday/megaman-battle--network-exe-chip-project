@@ -89,7 +89,7 @@ I used StickerApp and the labels came out with the correct color and texture.
 
 - [ ] Eurasia_M - Helped spark my internest into this project, along with his massive wealth of knowledge on battle chips, testing.
 
-- [ ] NettoHikari of ScilabSecrets.com - Wealth of Knowledge on battle chips, PET dip chip testing.
+- [ ] NettoHikari of ScilabSecrets.com - Wealth of Knowledge on battle chips, PET dip chip testing. Finding StickerApp Manufacturer.
 
 - [ ] [Gateonine](https://www.reddit.com/user/Gateonine) - Advance Chip Shell model, Pet emulation testing
 
