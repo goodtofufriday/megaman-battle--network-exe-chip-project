@@ -89,6 +89,12 @@ Best option IMO is to use and 8 and remove the sections you dont need
 
 I used StickerApp and the labels came out with the correct color and texture.
 
+## "Restored" Chips
+
+- [ ] Patch for exe/bn 4 allows Duo and GrandPrix Power to work with physical chips.
+
+- [ ] Exe 6 english patch allows 5 additional dark chips to work with physical chips.
+
 ## Special Thanks
 
 - [ ] Eurasia_M - Helped spark my internest into this project, along with his massive wealth of knowledge on battle chips, testing.
