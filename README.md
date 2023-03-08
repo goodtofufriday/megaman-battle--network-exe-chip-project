@@ -28,6 +28,12 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 - [ ] Upload Patches for EXE 4 Duo and GrandPrix Power chips
 
+## Applications Used
+
+- [ ] Eagle PCB
+
+- [ ] InkScape
+
 
 ## Chip Pinouts
 
@@ -35,7 +41,7 @@ The Dip Switch combinations for all chips, and starforce barcodes for reprinting
 
 I also have the excel uploaded in the git.
 
-The custom parts folder has Eagle libaries for the pins on each series of chips.
+The custom parts folder has Eagle libaries for the pins on each series of chips. Add these files into your libraries folder for Eagle in "My Documents".
 
 
 ## Exe 6 Link Navis
