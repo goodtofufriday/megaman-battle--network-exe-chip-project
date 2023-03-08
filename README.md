@@ -29,7 +29,9 @@ All pcbs were made in eagle and can be modified. Use the Blank chips as a base t
 
 ## Chip Pinouts
 
-[The Dip Switch combinations for all chips, and starforce barcodes for reprinting cards can be found here.](https://docs.google.com/spreadsheets/d/1beCqi77os6HziWFO5Ia3u95-WQ1cv9IMDcv7cEDRxCU/edit#gid=0) 
+The Dip Switch combinations for all chips, and starforce barcodes for reprinting cards can be found [here.](https://docs.google.com/spreadsheets/d/1beCqi77os6HziWFO5Ia3u95-WQ1cv9IMDcv7cEDRxCU/edit#gid=0) 
+
+I also have the excel uploaded in the git.
 
 
 ## Exe 6 Link Navis
