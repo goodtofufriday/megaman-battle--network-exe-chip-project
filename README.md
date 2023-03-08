@@ -116,7 +116,12 @@ EXE 6
 - [ ] 277 - Hakushaku SP 
 - [ ] 278 - Django 
 - [ ] 279 - Django V2
-- [ ] 280 - Django V3 
+- [ ] 280 - Django V3
+- [ ] 291 - Dark Tornado (With EXE 6 ENG Patch)
+- [ ] 292 - Dark Circle (With EXE 6 ENG Patch)
+- [ ] 293 - Dark Meteors (With EXE 6 ENG Patch)
+- [ ] 294 - Dark Lance (With EXE 6 ENG Patch)
+- [ ] 295 - Dark Wide (With EXE 6 ENG Patch)
 - [ ] 313 - Falzer 
 
 
