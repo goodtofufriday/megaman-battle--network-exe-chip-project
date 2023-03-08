@@ -84,3 +84,23 @@ Best option IMO is to use and 8 and remove the sections you dont need
 ## Sticker Labels
 
 I used StickerApp and the labels came out with the correct color and texture.
+
+## Special Thanks
+
+- [ ] Eurasia_M - Helped spark my internest into this project, along with his massive wealth of knowledge on battle chips, testing.
+
+- [ ] NettoHikari of ScilabSecrets.com - Wealth of Knowledge on battle chips, PET dip chip testing.
+
+- [ ] [Gateonine](https://www.reddit.com/user/Gateonine) - Advance Chip Shell model, Pet emulation testing
+
+- [ ] Enzan - Plug-in Pet codes
+
+- [ ] StackOverflow0x - Exe 4 Labels
+
+- [ ] BlaXun - Progress Chip Shell model, Labels 
+
+- [ ] AtomizerZero - Helped create the beta version of the dip chip based on my instructions. Used this to learn how to use Eagle.
+
+- [ ] Seabit - Testing
+
+- [ ] Yukki/Twilight - Testing
