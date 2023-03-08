@@ -8,6 +8,8 @@ Then expanded further to produce all the chips that never got a physical release
 
 All pcbs were made in eagle and can be modified. Use the Blank chips as a base to create other chips not included in this project.
 
+This is here just to help with Japanese SEO バトルチップ バトルチップ
+
 ## Whats left to do?
 
 - [ ] Link Chip Shell model
