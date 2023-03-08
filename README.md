@@ -69,6 +69,57 @@ See the excel sheet for what Hex values to modify to change the Navi and its lev
 
 - [ ] Standalone chips should be printed at dip chip thickness.
 
+## Unreleased Reproduced Chips
+
+This is the list of chips that were never physically made by capcom/takara but DO work in game as physical chips. You can make/buy these and use them as normal chips.
+
+EXE 4
+
+- [ ] 028 Life Sync (No JP Release)
+- [ ] 263 Burnerman
+- [ ] 305 Grand Prix
+- [ ] 308 Signal Red
+- [ ] 311 Duo (With patch)
+- [ ] 312 GrandPrix power (With patch)
+
+EXE 5 
+
+- [ ] 544 GunDelSol 
+- [ ] 545 GunDelSol2 
+- [ ] 546 Gun Del Sol 3 
+- [ ] 727 Otenko 
+- [ ] 731 Gun Del Sol EX 
+- [ ] 790 Django 
+- [ ] 791 Django SP 
+- [ ] 792 Django DS
+- [ ] 843 Roll Navi
+- [ ] 844 Gutsman Navi
+- [ ] 845 Windman Navi
+- [ ] 847 Fireman Navi
+- [ ] 848 Thunderman Navi
+- [ ] 851 Metalman Navi
+- [ ] 852 Junkman Navi
+- [ ] 853 Aquaman Navi
+- [ ] 854 Woodman Navi
+
+EXE 6
+
+- [ ] 017 - GunDelSol 3
+- [ ] 026 - Train Arrow 3 
+- [ ] 046 - Heat Dragon  
+- [ ] 067 - BugBomb 
+- [ ] 076 - Flame Sword  
+- [ ] 128 - Air Wheel 3 
+- [ ] 147 - Discord 
+- [ ] 162 - Panel Steal 
+- [ ] 276 - Hakushaku EX 
+- [ ] 277 - Hakushaku SP 
+- [ ] 278 - Django 
+- [ ] 279 - Django V2
+- [ ] 280 - Django V3 
+- [ ] 313 - Falzer 
+
+
 ## Printing PCBs
 
 I use pcbway to make my pcbs at the desired thickness. Eagle board files must be converted to gerbers.
