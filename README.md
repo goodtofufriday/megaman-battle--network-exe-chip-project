@@ -40,3 +40,16 @@ The chip can be programmed cheaply with a tl866 programmer.
 
 See the excel sheet for what Hex values to modify to change the Navi and its level.
 
+## Printing PCBs
+
+I use pcbway to make my pcbs at the desired thickness. Eagle board files must be converted to gerbers.
+
+- [ ] Chips that go inside shells need to be printed at 0.8mm thickness - I use oshpark for this instead of pcbway
+
+- [ ] Exe4/5 chips need to be printed at 2mm
+
+- [ ] Exe6 chips need to be printed at 2.4mm
+
+- [ ] Plug-in pet print at 2.2mm
+
+
