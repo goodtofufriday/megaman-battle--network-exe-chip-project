@@ -95,6 +95,12 @@ I used StickerApp and the labels came out with the correct color and texture.
 
 - [ ] Exe 6 english patch allows 5 additional dark chips to work with physical chips.
 
+## Infinite Chips
+
+- [ ] These chips have all pins connected. You can cut traces for the pins you dont need to get the chip you want. 
+
+- [ ] Standalone chips should be printed at dip chip thickness.
+
 ## Special Thanks
 
 - [ ] Eurasia_M - Helped spark my internest into this project, along with his massive wealth of knowledge on battle chips, testing.
