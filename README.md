@@ -9,12 +9,20 @@ Then expanded further to produce all the chips that never got a physical release
 ## Whats left to do?
 
 Link Chip Shell model
+
 Link Navi Chip Shell model
+
 Link Chip labels
+
 Link Chip Navi labels
+
 Progress Chip labels
+
 Plug-In Pet Shell model
+
 Plug-In Pet labels
+
+Upload Patches for EXE 4 Duo and GrandPrix Power chips
 
 
 ## Chip Pinouts
