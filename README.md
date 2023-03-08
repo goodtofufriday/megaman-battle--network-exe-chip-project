@@ -1,24 +1,26 @@
 # Megaman Exe Chip Project
 
+This project started in 2018 when I found that the aftermarket prices of some battle chips were insane. It started with what I call the dip chips. Chips with dip switches on them that allow you to use ANY chip that was produced, and many that weren't.
+
+It expanded to include the Link Navi chips. These chips can now be set to any level desired.
+
+Then expanded further to produce all the chips that never got a physical release.   
+
+## Whats left to do?
+
+Link Chip Shell model
+Link Navi Chip Shell model
+Link Chip labels
+Link Chip Navi labels
+Progress Chip labels
+Plug-In Pet Shell model
+Plug-In Pet labels
 
 
-## Getting started
+## Chip Pinouts
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+- [ ] [The Dip Switch combinations for all chips, and starforce barcodes for reprinting cards can be found here.](https://docs.google.com/spreadsheets/d/1beCqi77os6HziWFO5Ia3u95-WQ1cv9IMDcv7cEDRxCU/edit#gid=0) o
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/goodtofufriday/megaman-exe-chip-project.git
-git branch -M main
-git push -uf origin main
-```
 
 ## Integrate with your tools
 
