@@ -46,7 +46,7 @@ The custom parts folder has Eagle libaries for the pins on each series of chips.
 
 ## Exe 6 Link Navis
 
-Eeprom used is an Atmel 24C08AN. 
+Eeprom used is an Atmel 24C08AN SOIC. Do not buy the tsop verion. They are physically different.
 
 The chip can be programmed cheaply with a tl866 programmer. 
 
