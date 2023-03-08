@@ -128,3 +128,5 @@ I used StickerApp and the labels came out with the correct color and texture.
 - [ ] Yukki/Twilight - Testing
 
 - [ ] Prof9 - Patch for exe/bn 4
+
+- [ ]  Zarch - Further research into the Link Navis and making a PET emulator on pc. See his project [here.](https://gitlab.com/zarcha/link-analyzer)
