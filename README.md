@@ -35,6 +35,8 @@ The Dip Switch combinations for all chips, and starforce barcodes for reprinting
 
 I also have the excel uploaded in the git.
 
+The custom parts folder has Eagle libaries for the pins on each series of chips.
+
 
 ## Exe 6 Link Navis
 
