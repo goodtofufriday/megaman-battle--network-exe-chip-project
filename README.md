@@ -92,15 +92,15 @@ EXE 5
 - [ ] 790 - Django / ジャンゴ
 - [ ] 791 - Django SP / ジャンゴ SP
 - [ ] 792 - Django DS / ジャンゴ DS
-- [ ] 843 - Roll Navi / ロール
-- [ ] 844 - Gutsman Navi / ガッツマン
-- [ ] 845 - Windman Navi / ウインドマン
-- [ ] 847 - Fireman Navi / ファイアマン
-- [ ] 848 - Thunderman Navi / サンダーマン
-- [ ] 851 - Metalman Navi / メタルマン
-- [ ] 852 - Junkman Navi / ジャンクマン
-- [ ] 853 - Aquaman Navi / アクアマン
-- [ ] 854 - Woodman Navi / ウッドマン
+- [ ] 843 - Roll Navi / ロールナビ
+- [ ] 844 - Gutsman Navi / ガッツマンナビ
+- [ ] 845 - Windman Navi / ウインドマンナビ
+- [ ] 847 - Fireman Navi / ファイアマンナビ
+- [ ] 848 - Thunderman Navi / サンダーマンナビ
+- [ ] 851 - Metalman Navi / メタルマンナビ
+- [ ] 852 - Junkman Navi / ジャンクマンナビ
+- [ ] 853 - Aquaman Navi / アクアマンナビ
+- [ ] 854 - Woodman Navi / ウッドマンナビ
 
 EXE 6
 
