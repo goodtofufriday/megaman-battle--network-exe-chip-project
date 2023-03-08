@@ -34,6 +34,11 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 - [ ] InkScape
 
+## Dip Chips
+
+These chips can become every chip in the game by turning a series of small switches on or off. The excel doc has every possible combination for the switches, and what chip those combinations activate for what game.
+
+There is one dip chip that works for both exe 4 and exe 5 pets and gates. There is another for Link pets and gates. This had to be made sperate as there is one more pin, making it physically larger.
 
 ## Chip Pinouts
 
@@ -44,13 +49,25 @@ I also have the excel uploaded in the git.
 The custom parts folder has Eagle libaries for the pins on each series of chips. Add these files into your libraries folder for Eagle in "My Documents".
 
 
-## Exe 6 Link Navis
+## Exe 6 Link Navis Chips
 
 Eeprom used is an Atmel 24C08AN SOIC. Do not buy the tsop verion. They are physically different.
 
 The chip can be programmed cheaply with a tl866 programmer. 
 
 See the excel sheet for what Hex values to modify to change the Navi and its level.
+
+## "Restored" Chips
+
+- [ ] Patch for exe/bn 4 allows Duo and GrandPrix Power to work with physical chips.
+
+- [ ] Exe 6 english patch allows 5 additional dark chips to work with physical chips.
+
+## Infinite Chips
+
+- [ ] These chips have all pins connected. You can cut traces for the pins you dont need to get the chip you want. 
+
+- [ ] Standalone chips should be printed at dip chip thickness.
 
 ## Printing PCBs
 
@@ -94,18 +111,6 @@ Best option IMO is to use and 8 and remove the sections you dont need
 ## Sticker Labels
 
 I used StickerApp and the labels came out with the correct color and texture.
-
-## "Restored" Chips
-
-- [ ] Patch for exe/bn 4 allows Duo and GrandPrix Power to work with physical chips.
-
-- [ ] Exe 6 english patch allows 5 additional dark chips to work with physical chips.
-
-## Infinite Chips
-
-- [ ] These chips have all pins connected. You can cut traces for the pins you dont need to get the chip you want. 
-
-- [ ] Standalone chips should be printed at dip chip thickness.
 
 ## Special Thanks
 
