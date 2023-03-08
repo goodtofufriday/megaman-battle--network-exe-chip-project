@@ -79,6 +79,6 @@ Oh and for any number that has a 1 in the first or second spot you need to manua
 This font has a large box for 1 for some reason.
 Best option IMO is to use and 8 and remove the sections you dont need
 
-##Labels
+## Sticker Labels
 
 I used StickerApp and the labels came out with the correct color and texture.
