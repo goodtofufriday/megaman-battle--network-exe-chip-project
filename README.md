@@ -52,4 +52,30 @@ I use pcbway to make my pcbs at the desired thickness. Eagle board files must be
 
 - [ ] Plug-in pet print at 2.2mm
 
+## Making the numbers for chips - DXF files
+
+For what ever reason, Eagel does not support system installed fonts. And we need a special font to match real chips.
+
+It took me 5 hours of search fonts to find a perfect match. It is in the Numbers folder.
+
+- [ ] Use Inkscape: Set fill to none. Set stroke to something. Doesn't matter much how full. 
+- [ ] Type out number in font. Select all. 
+- [ ] Path - object to path
+- [ ] Object - ingroup
+- [ ] Path - break apart
+- [ ] Save as dxf
+
+- [ ] In eagle 
+- [ ] Import dxf.
+- [ ] Struggle with x/y parameters. (I have included paramters that work with my board files)
+- [ ] Delete lines in middle of the rectangles/number segments. 
+- [ ] Separate the segments just enough so that they aren't touching. 
+- [ ] Convert each segment to polygon (use replace)
+- [ ] Select them all
+- [ ] Ratsnest
+
+Then just do that for every number...
+Oh and for any number that has a 1 in the first or second spot you need to manually adjust the adjacent numbers to be closer to the one. 
+This font has a large box for 1 for some reason.
+Best option IMO is to use and 8 and remove the sections you dont need
 
