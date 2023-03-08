@@ -34,5 +34,9 @@ All pcbs were made in eagle and can be modified. Use the Blank chips as a base t
 
 ## Exe 6 Link Navis
 
-Eeprom used is an Atmel 24C08AN. The chip can be programmed cheaply with a tl866 programmer. See the excel sheet for what Hex values to modify to change the Navi and its level.
+Eeprom used is an Atmel 24C08AN. 
+
+The chip can be programmed cheaply with a tl866 programmer. 
+
+See the excel sheet for what Hex values to modify to change the Navi and its level.
 
