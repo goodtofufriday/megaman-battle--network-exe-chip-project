@@ -4,33 +4,35 @@ This project started in 2018 when I found that the aftermarket prices of some ba
 
 It expanded to include the Link Navi chips. These chips can now be set to any level desired.
 
-Then expanded further to produce all the chips that never got a physical release.   
+Then expanded further to produce all the chips that never got a physical release.
+
+All pcbs were made in eagle and can be modified. Use the Blank chips as a base to create other chips not included in this project.
 
 ## Whats left to do?
 
-Link Chip Shell model
+- [ ] Link Chip Shell model
 
-Link Navi Chip Shell model
+- [ ] Link Navi Chip Shell model
 
-Link Chip labels
+- [ ] Link Chip labels
 
-Link Chip Navi labels
+- [ ] Link Chip Navi labels
 
-Progress Chip labels
+- [ ] Progress Chip labels
 
-Plug-In Pet Shell model
+- [ ] Plug-In Pet Shell model
 
-Plug-In Pet labels
+- [ ] Plug-In Pet labels
 
-Upload Patches for EXE 4 Duo and GrandPrix Power chips
+- [ ] Upload Patches for EXE 4 Duo and GrandPrix Power chips
 
 
 ## Chip Pinouts
 
-- [ ] [The Dip Switch combinations for all chips, and starforce barcodes for reprinting cards can be found here.](https://docs.google.com/spreadsheets/d/1beCqi77os6HziWFO5Ia3u95-WQ1cv9IMDcv7cEDRxCU/edit#gid=0) o
+[The Dip Switch combinations for all chips, and starforce barcodes for reprinting cards can be found here.](https://docs.google.com/spreadsheets/d/1beCqi77os6HziWFO5Ia3u95-WQ1cv9IMDcv7cEDRxCU/edit#gid=0) 
 
 
-## Integrate with your tools
+## Exe 6 Link Navis
 
-- [ ] [Set up project integrations](https://gitlab.com/goodtofufriday/megaman-exe-chip-project/-/settings/integrations)
+Eeprom used is an Atmel 24C08AN. The chip can be programmed cheaply with a tl866 programmer. See the excel sheet for what Hex values to modify to change the Navi and its level.
 
