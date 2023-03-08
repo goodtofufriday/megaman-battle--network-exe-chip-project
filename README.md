@@ -28,12 +28,6 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 - [ ] Upload Patches for EXE 4 Duo and GrandPrix Power chips
 
-## Applications Used
-
-- [ ] Eagle PCB
-
-- [ ] InkScape
-
 ## Dip Chips
 
 These chips can become every chip in the game by turning a series of small switches on or off. The excel doc has every possible combination for the switches, and what chip those combinations activate for what game.
@@ -123,6 +117,12 @@ EXE 6
 - [ ] 294 - Dark Lance / ダークランス (With EXE 6 ENG Patch)
 - [ ] 295 - Dark Wide / ダークワイド (With EXE 6 ENG Patch)
 - [ ] 313 - Falzer  / ファルザー
+
+## Applications Used
+
+- [ ] Eagle PCB
+
+- [ ] InkScape
 
 ## Printing PCBs
 
