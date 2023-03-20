@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mic" unit="mic" style="dots" multiple="1" display="no" altdistance="1" altunitdist="mil" altunit="mm"/>
+<grid distance="1" unitdist="mic" unit="mm" style="dots" multiple="1" display="no" altdistance="1" altunitdist="mil" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -305,132 +305,132 @@ design rules under a new name.</description>
 <wire x1="49.19" y1="22.79" x2="49.19" y2="28.368" width="0.1524" layer="1"/>
 <wire x1="49.19" y1="28.368" x2="49.222" y2="28.4" width="0.1524" layer="1"/>
 </signal>
-<signal name="N$5">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="56.68956875" y="30.59345"/>
-<vertex x="56.68956875" y="30.447659375"/>
-<vertex x="57.18393125" y="30.447659375"/>
-<vertex x="57.18393125" y="30.59345"/>
-</polygon>
-</signal>
 <signal name="N$4">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="57.348709375" y="30.61245"/>
-<vertex x="57.18393125" y="30.61245"/>
-<vertex x="57.18393125" y="31.106790625"/>
-<vertex x="57.348709375" y="31.106790625"/>
+<vertex x="56.465490625" y="30.196940625"/>
+<vertex x="56.26775" y="30.196940625"/>
+<vertex x="56.26775" y="30.79015"/>
+<vertex x="56.465490625" y="30.79015"/>
+</polygon>
+</signal>
+<signal name="N$5">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="57.058709375" y="30.79015"/>
+<vertex x="57.058709375" y="30.196940625"/>
+<vertex x="57.256459375" y="30.196940625"/>
+<vertex x="57.256459375" y="30.79015"/>
 </polygon>
 </signal>
 <signal name="N$16">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="56.524790625" y="31.106790625"/>
-<vertex x="56.524790625" y="30.61245"/>
-<vertex x="56.68956875" y="30.61245"/>
-<vertex x="56.68956875" y="31.106790625"/>
+<vertex x="56.465490625" y="30.173940625"/>
+<vertex x="56.465490625" y="29.999190625"/>
+<vertex x="57.058709375" y="29.999190625"/>
+<vertex x="57.058709375" y="30.173940625"/>
 </polygon>
 </signal>
 <signal name="N$3">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="56.68956875" y="31.930709375"/>
-<vertex x="56.68956875" y="31.78191875"/>
-<vertex x="57.18393125" y="31.78191875"/>
-<vertex x="57.18393125" y="31.930709375"/>
+<vertex x="56.465490625" y="31.77885"/>
+<vertex x="56.465490625" y="31.601109375"/>
+<vertex x="57.058709375" y="31.601109375"/>
+<vertex x="57.058709375" y="31.77885"/>
 </polygon>
 </signal>
 <signal name="N$2">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="57.348709375" y="31.27156875"/>
-<vertex x="57.18393125" y="31.27156875"/>
-<vertex x="57.18393125" y="31.76591875"/>
-<vertex x="57.348709375" y="31.76591875"/>
+<vertex x="57.256459375" y="30.987890625"/>
+<vertex x="57.058709375" y="30.987890625"/>
+<vertex x="57.058709375" y="31.581109375"/>
+<vertex x="57.256459375" y="31.581109375"/>
 </polygon>
 </signal>
 <signal name="N$23">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="56.68956875" y="31.27156875"/>
-<vertex x="56.524790625" y="31.27156875"/>
-<vertex x="56.524790625" y="31.76591875"/>
-<vertex x="56.68956875" y="31.76591875"/>
-</polygon>
-</signal>
-<signal name="N$6">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="57.70135" y="31.27156875"/>
-<vertex x="57.53656875" y="31.27156875"/>
-<vertex x="57.53656875" y="31.76591875"/>
-<vertex x="57.70135" y="31.76591875"/>
-</polygon>
-</signal>
-<signal name="N$7">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="58.1957" y="31.76591875"/>
-<vertex x="58.1957" y="31.27156875"/>
-<vertex x="58.360490625" y="31.27156875"/>
-<vertex x="58.360490625" y="31.76591875"/>
-</polygon>
-</signal>
-<signal name="N$13">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="58.1957" y="31.106790625"/>
-<vertex x="57.70135" y="31.106790625"/>
-<vertex x="57.70135" y="31.26356875"/>
-<vertex x="58.1957" y="31.26356875"/>
-</polygon>
-</signal>
-<signal name="N$33">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="58.360490625" y="30.61245"/>
-<vertex x="58.2027" y="30.61245"/>
-<vertex x="58.2027" y="31.106790625"/>
-<vertex x="58.360490625" y="31.106790625"/>
-</polygon>
-</signal>
-<signal name="N$12">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="58.71313125" y="30.61245"/>
-<vertex x="58.71313125" y="30.447659375"/>
-<vertex x="59.207490625" y="30.447659375"/>
-<vertex x="59.207490625" y="30.61245"/>
-</polygon>
-</signal>
-<signal name="N$11">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="59.372259375" y="30.61245"/>
-<vertex x="59.221490625" y="30.61245"/>
-<vertex x="59.221490625" y="31.106790625"/>
-<vertex x="59.372259375" y="31.106790625"/>
-</polygon>
-</signal>
-<signal name="N$10">
-<polygon width="0.001" layer="1" rank="0">
-<vertex x="58.54835" y="31.106790625"/>
-<vertex x="58.54835" y="30.61245"/>
-<vertex x="58.70213125" y="30.61245"/>
-<vertex x="58.70213125" y="31.106790625"/>
+<vertex x="56.465490625" y="30.987890625"/>
+<vertex x="56.26775" y="30.987890625"/>
+<vertex x="56.26775" y="31.581109375"/>
+<vertex x="56.465490625" y="31.581109375"/>
 </polygon>
 </signal>
 <signal name="N$8">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="59.207490625" y="31.106790625"/>
-<vertex x="58.71313125" y="31.106790625"/>
-<vertex x="58.71313125" y="31.27156875"/>
-<vertex x="59.207490625" y="31.27156875"/>
+<vertex x="58.47058125" y="30.196940625"/>
+<vertex x="58.272840625" y="30.196940625"/>
+<vertex x="58.272840625" y="30.79015"/>
+<vertex x="58.47058125" y="30.79015"/>
+</polygon>
+</signal>
+<signal name="N$7">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="58.253840625" y="30.79015"/>
+<vertex x="57.69361875" y="30.79015"/>
+<vertex x="57.69361875" y="30.987890625"/>
+<vertex x="58.253840625" y="30.987890625"/>
+</polygon>
+</signal>
+<signal name="N$6">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="58.47058125" y="30.987890625"/>
+<vertex x="58.272840625" y="30.987890625"/>
+<vertex x="58.272840625" y="31.581109375"/>
+<vertex x="58.47058125" y="31.581109375"/>
+</polygon>
+</signal>
+<signal name="N$33">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="57.67961875" y="30.987890625"/>
+<vertex x="57.48188125" y="30.987890625"/>
+<vertex x="57.48188125" y="31.581109375"/>
+<vertex x="57.67961875" y="31.581109375"/>
+</polygon>
+</signal>
+<signal name="N$13">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="59.684709375" y="30.196940625"/>
+<vertex x="59.503990625" y="30.196940625"/>
+<vertex x="59.503990625" y="30.79015"/>
+<vertex x="59.684709375" y="30.79015"/>
+</polygon>
+</signal>
+<signal name="N$12">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="58.89375" y="30.196940625"/>
+<vertex x="58.89375" y="29.999190625"/>
+<vertex x="59.486990625" y="29.999190625"/>
+<vertex x="59.486990625" y="30.196940625"/>
+</polygon>
+</signal>
+<signal name="N$11">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="58.88275" y="30.196940625"/>
+<vertex x="58.69601875" y="30.196940625"/>
+<vertex x="58.69601875" y="30.79015"/>
+<vertex x="58.88275" y="30.79015"/>
+</polygon>
+</signal>
+<signal name="N$10">
+<polygon width="0.001" layer="1" rank="0">
+<vertex x="58.89375" y="30.987890625"/>
+<vertex x="58.89375" y="30.79015"/>
+<vertex x="59.486990625" y="30.79015"/>
+<vertex x="59.486990625" y="30.987890625"/>
 </polygon>
 </signal>
 <signal name="N$9">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="58.71313125" y="31.930709375"/>
-<vertex x="58.71313125" y="31.76591875"/>
-<vertex x="59.207490625" y="31.76591875"/>
-<vertex x="59.207490625" y="31.930709375"/>
+<vertex x="58.69601875" y="31.581109375"/>
+<vertex x="58.69601875" y="30.987890625"/>
+<vertex x="58.87875" y="30.987890625"/>
+<vertex x="58.87875" y="31.581109375"/>
 </polygon>
 </signal>
 <signal name="N$45">
 <polygon width="0.001" layer="1" rank="0">
-<vertex x="58.70013125" y="31.27156875"/>
-<vertex x="58.54835" y="31.27156875"/>
-<vertex x="58.54835" y="31.76591875"/>
-<vertex x="58.70013125" y="31.76591875"/>
+<vertex x="59.486990625" y="31.581109375"/>
+<vertex x="58.89375" y="31.581109375"/>
+<vertex x="58.89375" y="31.77885"/>
+<vertex x="59.486990625" y="31.77885"/>
 </polygon>
 </signal>
 </signals>
