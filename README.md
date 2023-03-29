@@ -12,8 +12,6 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 ## Whats left to do?
 
-- [ ] Link Chip Shell model
-
 - [ ] Link Navi Chip Shell model
 
 - [ ] Link Chip labels
