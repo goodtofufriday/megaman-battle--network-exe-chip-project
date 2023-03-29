@@ -23,7 +23,7 @@
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -84,6 +84,17 @@
 <vertex x="-0.762" y="-0.469"/>
 <vertex x="-0.762" y="10.246"/>
 <vertex x="-0.607" y="10.401"/>
+</polygon>
+<polygon width="0.1524" layer="30">
+<vertex x="-0.708" y="10.654"/>
+<vertex x="30.898" y="10.654"/>
+<vertex x="31.103" y="10.449"/>
+<vertex x="31.103" y="-0.225"/>
+<vertex x="31.308" y="-0.43"/>
+<vertex x="-0.561" y="-0.43"/>
+<vertex x="-0.796" y="-0.195"/>
+<vertex x="-0.796" y="10.52"/>
+<vertex x="-0.641" y="10.675"/>
 </polygon>
 </plain>
 <libraries>
