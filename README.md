@@ -20,6 +20,8 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 - [ ] Progress Chip labels
 
+- [ ] Progress Chip Shell model
+
 - [ ] Plug-In Pet Shell model
 
 - [ ] Plug-In Pet labels
