@@ -169,13 +169,11 @@ I used StickerApp and the labels came out with the correct color and texture.
 
 - [ ] NettoHikari of ScilabSecrets.com - Wealth of Knowledge on battle chips, PET dip chip testing. Finding StickerApp Manufacturer.
 
-- [ ] [Gateonine](https://www.reddit.com/user/Gateonine) - Advance Chip Shell model, Pet emulation testing
+- [ ] [Gateonine](https://www.reddit.com/user/Gateonine) - All Chip Shell model,  Pet emulation testing
 
 - [ ] Enzan - Plug-in Pet codes
 
-- [ ] StackOverflow0x - Exe 4 Labels
-
-- [ ] BlaXun - Progress Chip Shell model, Labels 
+- [ ] StackOverflow0x - Exe 4/5/6 Labels
 
 - [ ] AtomizerZero - Helped create the beta version of the dip chip based on my instructions. Used this to learn how to use Eagle.
 
@@ -184,5 +182,7 @@ I used StickerApp and the labels came out with the correct color and texture.
 - [ ] Yukki/Twilight - Testing
 
 - [ ] Prof9 - Patch for exe/bn 4
+
+- [ ] EXEGUY11 - ENG patch for Exe 6
 
 - [ ] Zarch - Further research into the Link Navis and making a PET emulator on pc. See his project [here.](https://gitlab.com/zarcha/link-analyzer)
