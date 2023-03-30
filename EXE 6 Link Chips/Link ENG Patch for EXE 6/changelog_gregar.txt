@@ -1,0 +1,11 @@
+v1.0 - All menu text, graphics, chip text, navi names, virus names, area names, BBS text, Crossover Battle 2 text,
+chip shop text, chip trader text, mystery data access text, Poem & Humor text, and item names changed/translated.
+The first few cutscenes are translated up until after Iris is saved. Most of the text in Asterland is translated 
+except for NPCs (excluding Tab and Mr.Famous). Prof. 9's custom e-card marker and no panic music added. The Tornado
+chip glitch is fixed, and the name edit limit is expanded to 8 characters. Cheats added for Gregar SP link navis.
+Dark chips and BLG chips added (the same cheats from before work as well). The same modded number trader prizes are
+added, with the exception of Falzar X, which is now Gregar X. Mail sort options changed. Should be fully compatible 
+with my Falzar patch for trading, netbattling etc.
+
+v1.1 - Fully modified into english. It is now identical to the Falzar patch in terms of completion, and two patch
+files are included as well with/without the Wii U features.
