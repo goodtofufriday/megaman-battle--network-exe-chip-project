@@ -1,0 +1,42 @@
+v1.0 - Initial release
+
+v1.1 - Added 3 new prizes to number trader. Fixed up a text error that occured
+during the "Can't open safe" request bbs mission. Removed the obtaining of
+DarkThnd after beating Mr.Quiz. Added 5 new dark chips. Reverted all instances
+of KillrMan back to EraseMan.
+
+v1.2 - Fixed major bug with wireless adapter netbattles that caused client's chip 
+selection screen to display all non-working chips.
+
+v1.3 - Fixed glitch that caused the game to freeze when talking to generic brown 
+Navi in Sky Area 1 during GroundMan class. Corrected PMD unlock text displaying
+cave speak.
+
+v1.4 - Translated text I missed in Kaizou/Custom screen that appears when Select
+is pressed. DblBeast & both Cybeast chips descriptions changed to more closely match the official 
+japanese description. Fixed up a few lines of e-Card receive text (check provided
+screenshots). Changed every instance of "TheCount" to "Count". Added replaced japanese virus
+battler prizes to number trader (AirSpin1 F, AntiDmg R, Geddon L). Added chip images and
+icons to the 4 Arm Change chips and Sync Trigger. Fixed range check for "." character, so now 
+mugshots don't look like they're still talking when something like "......." appears. All mail
+sort options changed to the ones from BN6. Fixed a small spacing glitch in the credits, where the
+M and G weren't aligned properly underneath the S. Number trader "OK" and name edit table bracket
+alignments are now fixed. Name entry limit has been expanded to 8, and the placeholder character
+has been fixed as well. Fixed Tornado chip glitch that caused it to do more damage when used over
+an elemental panel, and had a White Capsule applied to it. Fixed glitch where the last 2 tiles of
+Cstmzing and Interval graphics would stay on screen randomly. Added a marker that is used with
+Prof. 9's custom e-cards, so when the cards are used with my patch, english text is displayed instead
+of japanese!
+
+v1.5 - ProtoMan SP can now be fought after clearing the first 25 BBS missions, and pressing select at
+the request board. Game crashing bug from previous Tornado chip fix has been corrected. Updated artwork
+for BLG chips.
+
+v1.6 - Graveyard 2 cybertree and cybercloud text glitches corrected, and the Undernet 3 door is now translated
+properly and opens with a Machine Sword chip.
+
+v1.7 - Polished up the DarkThnd fix from v1.1 that caused the library to crash when checking the 30th entry, and
+made DolThdr E appear in the chip order screen without having obtained the chip first.
+
+v1.8 - Two patches are available now, one with and one without the Wii U features for obtaining all secret chips and
+10 extra BBS request. Changed up the credits a bit and changed "PuzzlArm" to "PulseArm".
