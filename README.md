@@ -24,8 +24,6 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 - [ ] Plug-In Pet labels
 
-- [ ] Upload Patches for EXE 4 Duo and GrandPrix Power chips
-
 ## Dip Chips
 
 These chips can become every chip in the game by turning a series of small switches on or off. The excel doc has every possible combination for the switches, and what chip those combinations activate for what game.
