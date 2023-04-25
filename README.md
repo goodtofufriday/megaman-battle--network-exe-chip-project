@@ -12,19 +12,11 @@ This is here just to help with Japanese SEO バトルチップ バトルチッ�
 
 ## Whats left to do?
 
-- [ ] Link Navi Chip Shell model
-
 - [ ] Link Chip labels
 
 - [ ] Link Chip Navi labels
 
 - [ ] Progress Chip labels
-
-- [ ] Progress Chip Shell model
-
-- [ ] Plug-In Pet Shell model
-
-- [ ] Plug-In Pet labels
 
 ## Dip Chips
 
